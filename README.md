@@ -4,6 +4,9 @@
 <h1 align="center">🛰 comlink-loader 📡</h1>
 <p align="center">Offload modules to Worker threads seamlessly using <a href="https://github.com/GoogleChromeLabs/comlink">Comlink</a>.</p>
 
+# THIS IS A FORKED VERSION OF `comlink-loader`
+
+The reason for this fork is to patch [this bug](https://github.com/GoogleChromeLabs/comlink-loader/pull/17) in the original one. 
 
 ### Features
 
